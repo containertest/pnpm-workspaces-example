@@ -1,4 +1,4 @@
-# PNPM workspaces sssssdsssss
+# PNPM workspaces sssssdssssss
 testing 1 
 
 Testing pnpm monorepo
